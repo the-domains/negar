@@ -1,0 +1,14 @@
+layout_spectrum: 0.5028772784862667
+typography_spectrum: 0.7734027046244591
+color:
+  brandStrength: 0.3911143443547189
+  lightness: 0.9852309643756598
+  saturation: 0.7953469443600625
+  rhythmicContrast: 0.14058323972858489
+  brandColors:
+    - '#332532'
+    - '#644D52'
+    - '#F77A52'
+    - '#FF974F'
+    - '#A49A87'
+name: negar
